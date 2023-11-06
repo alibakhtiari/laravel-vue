@@ -1,7 +1,7 @@
 <template>
     <div class="table-responsive">
-      <table class="table table-striped">
-        <thead>
+      <table class="table table-striped table-bordered table-hover">
+        <thead class="table-dark">
           <tr>
             <th>base</th>
             <th>quote</th>
